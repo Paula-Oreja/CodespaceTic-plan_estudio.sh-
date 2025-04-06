@@ -4,4 +4,10 @@ Miércoles: Lógica
 Jueves: Matemáticas 2
 Viernes: Programación
 Sábado: Todas
-Domingo: Nada
+Domingo: NadaLunes: tic
+Martes: matemáticas discreta
+Miércoles: lógica
+Jueves: matematicas 2
+Viernes: programación
+Sábado: nada
+Domingo: todo
