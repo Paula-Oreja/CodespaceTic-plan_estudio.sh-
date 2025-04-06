@@ -1,13 +1,7 @@
 Lunes: Tic
 Martes: Matemáticas discreta
 Miércoles: Lógica
-Jueves: Matemáticas 2
+Jueves: Matemáticas II
 Viernes: Programación
-Sábado: Todas
-Domingo: NadaLunes: tic
-Martes: matemáticas discreta
-Miércoles: lógica
-Jueves: matematicas 2
-Viernes: programación
-Sábado: nada
-Domingo: todo
+Sábado: Todo
+Domingo: Nada
